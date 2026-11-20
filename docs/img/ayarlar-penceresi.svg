@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" font-family="Segoe UI, Arial, sans-serif">
+<rect width="960" height="600" fill="#fff"/>
+<rect x="20" y="20" width="480" height="560" rx="6" fill="#f0f0f0" stroke="#888"/>
+<rect x="20" y="20" width="480" height="30" rx="6" fill="#1a3060"/><text x="34" y="40" fill="#fff" font-size="14">Ayarlar</text>
+<rect x="32" y="60" width="96" height="44" rx="3" fill="#fdfdfd" stroke="#999"/><text x="80.0" y="87.0" font-size="13" text-anchor="middle" fill="#000">Klasör Seç</text>
+<rect x="136" y="60" width="340" height="44" fill="#fff" stroke="#777"/><text x="144" y="87" font-size="13">C:\plot</text>
+<rect x="32" y="116" width="96" height="44" rx="3" fill="#ffffff" stroke="#999"/><text x="80.0" y="143.0" font-size="13" text-anchor="middle" fill="#000">Arka Plan</text>
+<rect x="136" y="116" width="96" height="44" rx="3" fill="#000000" stroke="#999"/><text x="184.0" y="143.0" font-size="13" text-anchor="middle" fill="#bbb">Çizgi</text><rect x="248" y="116" width="110" height="44" rx="3" fill="#ff2020" stroke="#999"/><text x="303" y="143" font-size="13" text-anchor="middle" fill="#fff">Ölçü Çizgisi</text><rect x="364" y="116" width="80" height="44" rx="3" fill="#fdfdfd" stroke="#999"/><text x="404" y="143" font-size="13" text-anchor="middle">Otomatik</text>
+<rect x="32" y="172" width="444" height="330" fill="none" stroke="#bbb"/><rect x="40" y="164" width="92" height="14" fill="#f0f0f0"/><text x="44" y="176" font-size="12">Ölçü ayarları</text>
+<text x="44" y="210" font-size="13">PLT ölçeği (mm / birim)</text>
+<rect x="262" y="194" width="110" height="24" fill="#fff" stroke="#999"/><text x="268" y="211" font-size="13">0,0250</text>
+<text x="44" y="242" font-size="13">10 cm = piksel (yatay)</text>
+<rect x="262" y="226" width="110" height="24" fill="#fff" stroke="#999"/><text x="268" y="243" font-size="13">377,95</text>
+<text x="44" y="274" font-size="13">10 cm = piksel (dikey)</text>
+<rect x="262" y="258" width="110" height="24" fill="#fff" stroke="#999"/><text x="268" y="275" font-size="13">377,95</text>
+<text x="44" y="306" font-size="13">Masa genişliği (cm)</text>
+<rect x="262" y="290" width="110" height="24" fill="#fff" stroke="#999"/><text x="268" y="307" font-size="13">90</text>
+<text x="44" y="338" font-size="13">Masa yüksekliği (cm)</text>
+<rect x="262" y="322" width="110" height="24" fill="#fff" stroke="#999"/><text x="268" y="339" font-size="13">70</text>
+<text x="44" y="370" font-size="13">Büyüteç X (%)</text>
+<rect x="262" y="354" width="110" height="24" fill="#fff" stroke="#999"/><text x="268" y="371" font-size="13">100,00</text>
+<text x="44" y="402" font-size="13">Büyüteç Y (%)</text>
+<rect x="262" y="386" width="110" height="24" fill="#fff" stroke="#999"/><text x="268" y="403" font-size="13">100,00</text>
+<text x="44" y="434" font-size="13">Çizgi kalınlığı (px)</text>
+<rect x="262" y="418" width="110" height="24" fill="#fff" stroke="#999"/><text x="268" y="435" font-size="13">1,0</text>
+<rect x="372" y="456" width="96" height="36" rx="3" fill="#fdfdfd" stroke="#999"/><text x="420.0" y="479.0" font-size="13" text-anchor="middle" fill="#000">Kaydet</text>
+<rect x="32" y="518" width="150" height="44" rx="3" fill="#fdfdfd" stroke="#999"/><text x="107.0" y="545.0" font-size="13" text-anchor="middle" fill="#000">Dama Kalibrasyonu</text>
+<rect x="190" y="518" width="140" height="44" rx="3" fill="#fdfdfd" stroke="#999"/><text x="260.0" y="545.0" font-size="13" text-anchor="middle" fill="#000">Çizgi Kalibrasyonu</text>
+<rect x="396" y="518" width="80" height="44" rx="3" fill="#fdfdfd" stroke="#999"/><text x="436.0" y="545.0" font-size="13" text-anchor="middle" fill="#000">Kapat</text>
+<circle cx="128" cy="60" r="11" fill="#d9480f" stroke="#fff" stroke-width="2"/><text x="128" y="65" font-size="13" fill="#fff" text-anchor="middle" font-weight="bold">1</text>
+<circle cx="232" cy="116" r="11" fill="#d9480f" stroke="#fff" stroke-width="2"/><text x="232" y="121" font-size="13" fill="#fff" text-anchor="middle" font-weight="bold">2</text>
+<circle cx="476" cy="210" r="11" fill="#d9480f" stroke="#fff" stroke-width="2"/><text x="476" y="215" font-size="13" fill="#fff" text-anchor="middle" font-weight="bold">3</text>
+<circle cx="476" cy="258" r="11" fill="#d9480f" stroke="#fff" stroke-width="2"/><text x="476" y="263" font-size="13" fill="#fff" text-anchor="middle" font-weight="bold">4</text>
+<circle cx="476" cy="322" r="11" fill="#d9480f" stroke="#fff" stroke-width="2"/><text x="476" y="327" font-size="13" fill="#fff" text-anchor="middle" font-weight="bold">5</text>
+<circle cx="476" cy="386" r="11" fill="#d9480f" stroke="#fff" stroke-width="2"/><text x="476" y="391" font-size="13" fill="#fff" text-anchor="middle" font-weight="bold">6</text>
+<circle cx="476" cy="418" r="11" fill="#d9480f" stroke="#fff" stroke-width="2"/><text x="476" y="423" font-size="13" fill="#fff" text-anchor="middle" font-weight="bold">7</text>
+<circle cx="468" cy="456" r="11" fill="#d9480f" stroke="#fff" stroke-width="2"/><text x="468" y="461" font-size="13" fill="#fff" text-anchor="middle" font-weight="bold">8</text>
+<circle cx="182" cy="518" r="11" fill="#d9480f" stroke="#fff" stroke-width="2"/><text x="182" y="523" font-size="13" fill="#fff" text-anchor="middle" font-weight="bold">9</text>
+<circle cx="330" cy="518" r="11" fill="#d9480f" stroke="#fff" stroke-width="2"/><text x="330" y="523" font-size="13" fill="#fff" text-anchor="middle" font-weight="bold">10</text>
+<circle cx="540" cy="65" r="11" fill="#d9480f" stroke="#fff" stroke-width="2"/><text x="540" y="70" font-size="13" fill="#fff" text-anchor="middle" font-weight="bold">1</text>
+<text x="562" y="70" font-size="15" fill="#222">Çizimlerin durduğu klasör</text>
+<circle cx="540" cy="105" r="11" fill="#d9480f" stroke="#fff" stroke-width="2"/><text x="540" y="110" font-size="13" fill="#fff" text-anchor="middle" font-weight="bold">2</text>
+<text x="562" y="110" font-size="15" fill="#222">Arka plan, çizgi ve ölçü çizgisi rengi</text>
+<circle cx="540" cy="145" r="11" fill="#d9480f" stroke="#fff" stroke-width="2"/><text x="540" y="150" font-size="13" fill="#fff" text-anchor="middle" font-weight="bold">3</text>
+<text x="562" y="150" font-size="15" fill="#222">PLT birimi: 0,025 = standart</text>
+<circle cx="540" cy="185" r="11" fill="#d9480f" stroke="#fff" stroke-width="2"/><text x="540" y="190" font-size="13" fill="#fff" text-anchor="middle" font-weight="bold">4</text>
+<text x="562" y="190" font-size="15" fill="#222">Kalibrasyonun bulduğu değer</text>
+<circle cx="540" cy="225" r="11" fill="#d9480f" stroke="#fff" stroke-width="2"/><text x="540" y="230" font-size="13" fill="#fff" text-anchor="middle" font-weight="bold">5</text>
+<text x="562" y="230" font-size="15" fill="#222">Masanın ölçüsü (dama sayısı için)</text>
+<circle cx="540" cy="265" r="11" fill="#d9480f" stroke="#fff" stroke-width="2"/><text x="540" y="270" font-size="13" fill="#fff" text-anchor="middle" font-weight="bold">6</text>
+<text x="562" y="270" font-size="15" fill="#222">Büyüteç: gerçek ölçü için 100</text>
+<circle cx="540" cy="305" r="11" fill="#d9480f" stroke="#fff" stroke-width="2"/><text x="540" y="310" font-size="13" fill="#fff" text-anchor="middle" font-weight="bold">7</text>
+<text x="562" y="310" font-size="15" fill="#222">PLT çizgilerinin kalınlığı</text>
+<circle cx="540" cy="345" r="11" fill="#d9480f" stroke="#fff" stroke-width="2"/><text x="540" y="350" font-size="13" fill="#fff" text-anchor="middle" font-weight="bold">8</text>
+<text x="562" y="350" font-size="15" fill="#222">Değişiklikleri kaydet</text>
+<circle cx="540" cy="385" r="11" fill="#d9480f" stroke="#fff" stroke-width="2"/><text x="540" y="390" font-size="13" fill="#fff" text-anchor="middle" font-weight="bold">9</text>
+<text x="562" y="390" font-size="15" fill="#222">Masaya yansıtıyorsan bunu kullan</text>
+<circle cx="540" cy="425" r="11" fill="#d9480f" stroke="#fff" stroke-width="2"/><text x="540" y="430" font-size="13" fill="#fff" text-anchor="middle" font-weight="bold">10</text>
+<text x="562" y="430" font-size="15" fill="#222">Monitör için (kalibre edilmemişse</text>
+<text x="562" y="448" font-size="15" fill="#222">"Kalibre Et!" yazar, turuncu olur)</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="240" viewBox="0 0 960 240" font-family="Segoe UI, Arial, sans-serif">
+<rect width="960" height="240" fill="#fff"/>
+<text x="480" y="28" font-size="17" text-anchor="middle" font-weight="bold" fill="#222">Yapışkan ölçümde imleç çizgiye yaklaşınca çıkan işaretler</text>
+<rect x="10" y="44" width="225" height="186" rx="8" fill="#fafafa" stroke="#ccc"/>
+<g transform="translate(22,-6)"><polyline points="30,170 30,80 150,80" fill="none" stroke="#000" stroke-width="2"/><rect x="20" y="70" width="20" height="20" fill="none" stroke="#2b8a3e" stroke-width="3"/></g>
+<text x="122" y="200" font-size="15" text-anchor="middle" font-weight="bold">Kare</text>
+<text x="122" y="219" font-size="12" text-anchor="middle" fill="#444">köşe / uç noktası</text>
+<rect x="247" y="44" width="225" height="186" rx="8" fill="#fafafa" stroke="#ccc"/>
+<g transform="translate(259,-6)"><line x1="20" y1="120" x2="180" y2="120" stroke="#000" stroke-width="2"/><polygon points="100,106 112,128 88,128" fill="none" stroke="#2b8a3e" stroke-width="3"/></g>
+<text x="359" y="200" font-size="15" text-anchor="middle" font-weight="bold">Üçgen</text>
+<text x="359" y="219" font-size="12" text-anchor="middle" fill="#444">çizginin orta noktası</text>
+<rect x="484" y="44" width="225" height="186" rx="8" fill="#fafafa" stroke="#ccc"/>
+<g transform="translate(496,-6)"><line x1="20" y1="160" x2="180" y2="80" stroke="#000" stroke-width="2"/><circle cx="130" cy="105" r="11" fill="none" stroke="#2b8a3e" stroke-width="3"/></g>
+<text x="596" y="200" font-size="15" text-anchor="middle" font-weight="bold">Halka</text>
+<text x="596" y="219" font-size="12" text-anchor="middle" fill="#444">çizginin üzerinde</text>
+<rect x="721" y="44" width="225" height="186" rx="8" fill="#fafafa" stroke="#ccc"/>
+<g transform="translate(733,-6)"><line x1="100" y1="60" x2="100" y2="180" stroke="#000" stroke-width="2"/><line x1="20" y1="130" x2="180" y2="130" stroke="#aaa" stroke-dasharray="4 3"/><path d="M86 130 h28 M100 116 v28" stroke="#2b8a3e" stroke-width="3"/></g>
+<text x="833" y="200" font-size="15" text-anchor="middle" font-weight="bold">Artı</text>
+<text x="833" y="219" font-size="12" text-anchor="middle" fill="#444">hizadaki kesişim (Yatay/Dikey)</text>
+</svg>

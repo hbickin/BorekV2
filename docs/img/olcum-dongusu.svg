@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="240" viewBox="0 0 960 240" font-family="Segoe UI, Arial, sans-serif">
+<rect width="960" height="240" fill="#fff"/>
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#555"/></marker></defs>
+<text x="480" y="30" font-size="17" text-anchor="middle" font-weight="bold" fill="#222">Ölçü Al düğmesine her basış bir sonraki yönteme geçer</text>
+<rect x="30" y="70" width="120" height="56" rx="8" fill="#e9ecef" stroke="#666" stroke-width="1.5"/>
+<text x="90" y="104" font-size="16" text-anchor="middle" font-weight="bold">Ölçü Al</text>
+<text x="90" y="148" font-size="12" text-anchor="middle" fill="#555">normal renk</text>
+<line x1="152" y1="98" x2="182" y2="98" stroke="#555" stroke-width="2" marker-end="url(#a)"/>
+<rect x="185" y="70" width="120" height="56" rx="8" fill="#ff8c8c" stroke="#666" stroke-width="1.5"/>
+<text x="245" y="104" font-size="16" text-anchor="middle" font-weight="bold">Serbest</text>
+<text x="245" y="148" font-size="12" text-anchor="middle" fill="#555">düğme rengi</text>
+<line x1="307" y1="98" x2="337" y2="98" stroke="#555" stroke-width="2" marker-end="url(#a)"/>
+<rect x="340" y="70" width="120" height="56" rx="8" fill="#ffc832" stroke="#666" stroke-width="1.5"/>
+<text x="400" y="104" font-size="16" text-anchor="middle" font-weight="bold">Yapışkan</text>
+<text x="400" y="148" font-size="12" text-anchor="middle" fill="#555">düğme rengi</text>
+<line x1="462" y1="98" x2="492" y2="98" stroke="#555" stroke-width="2" marker-end="url(#a)"/>
+<rect x="495" y="70" width="120" height="56" rx="8" fill="#6ebeff" stroke="#666" stroke-width="1.5"/>
+<text x="555" y="104" font-size="16" text-anchor="middle" font-weight="bold">Yatay</text>
+<text x="555" y="148" font-size="12" text-anchor="middle" fill="#555">düğme rengi</text>
+<line x1="617" y1="98" x2="647" y2="98" stroke="#555" stroke-width="2" marker-end="url(#a)"/>
+<rect x="650" y="70" width="120" height="56" rx="8" fill="#78d778" stroke="#666" stroke-width="1.5"/>
+<text x="710" y="104" font-size="16" text-anchor="middle" font-weight="bold">Dikey</text>
+<text x="710" y="148" font-size="12" text-anchor="middle" fill="#555">düğme rengi</text>
+<line x1="772" y1="98" x2="802" y2="98" stroke="#555" stroke-width="2" marker-end="url(#a)"/>
+<rect x="805" y="70" width="120" height="56" rx="8" fill="#c896ff" stroke="#666" stroke-width="1.5"/>
+<text x="865" y="104" font-size="16" text-anchor="middle" font-weight="bold">En kısa</text>
+<text x="865" y="148" font-size="12" text-anchor="middle" fill="#555">düğme rengi</text>
+<path d="M 865 158 C 865 215, 90 215, 90 160" fill="none" stroke="#555" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#a)"/>
+<text x="480" y="222" font-size="12" text-anchor="middle" fill="#555">En kısa'dan sonra tekrar kapanır</text>
+</svg>
