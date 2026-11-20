@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="520" viewBox="0 0 960 520" font-family="Segoe UI, Arial, sans-serif">
+<rect width="960" height="520" fill="#ffffff"/>
+<defs><marker id="ok" markerWidth="10" markerHeight="10" refX="6" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#d9480f"/></marker></defs>
+<text x="230" y="34" font-size="16" font-weight="bold" fill="#222" text-anchor="middle">Önce</text>
+<rect x="30" y="48" width="400" height="360" rx="6" fill="#121826" stroke="#334155"/>
+<rect x="30" y="48" width="400" height="48" rx="6" fill="#182030"/>
+<rect x="160" y="56" width="132" height="32" rx="8" fill="#1F2937" stroke="#334155"/>
+<text x="182" y="79" font-size="20" fill="#E5E7EB" text-anchor="middle">↺</text>
+<text x="226" y="79" font-size="20" fill="#E5E7EB" text-anchor="middle">⟲</text>
+<text x="270" y="79" font-size="20" fill="#E5E7EB" text-anchor="middle">↻</text>
+<rect x="30" y="96" width="400" height="20" fill="#182030"/><rect x="30" y="96" width="20" height="312" rx="0" fill="#182030"/>
+<line x1="60" y1="116" x2="60" y2="106" stroke="#CBD5E1"/>
+<line x1="90" y1="116" x2="90" y2="106" stroke="#CBD5E1"/>
+<line x1="120" y1="116" x2="120" y2="106" stroke="#CBD5E1"/>
+<line x1="150" y1="116" x2="150" y2="106" stroke="#CBD5E1"/>
+<line x1="180" y1="116" x2="180" y2="106" stroke="#CBD5E1"/>
+<line x1="210" y1="116" x2="210" y2="106" stroke="#CBD5E1"/>
+<line x1="240" y1="116" x2="240" y2="106" stroke="#CBD5E1"/>
+<line x1="270" y1="116" x2="270" y2="106" stroke="#CBD5E1"/>
+<line x1="300" y1="116" x2="300" y2="106" stroke="#CBD5E1"/>
+<line x1="330" y1="116" x2="330" y2="106" stroke="#CBD5E1"/>
+<line x1="360" y1="116" x2="360" y2="106" stroke="#CBD5E1"/>
+<line x1="390" y1="116" x2="390" y2="106" stroke="#CBD5E1"/>
+<line x1="420" y1="116" x2="420" y2="106" stroke="#CBD5E1"/>
+<line x1="50" y1="126" x2="40" y2="126" stroke="#CBD5E1"/>
+<line x1="50" y1="156" x2="40" y2="156" stroke="#CBD5E1"/>
+<line x1="50" y1="186" x2="40" y2="186" stroke="#CBD5E1"/>
+<line x1="50" y1="216" x2="40" y2="216" stroke="#CBD5E1"/>
+<line x1="50" y1="246" x2="40" y2="246" stroke="#CBD5E1"/>
+<line x1="50" y1="276" x2="40" y2="276" stroke="#CBD5E1"/>
+<line x1="50" y1="306" x2="40" y2="306" stroke="#CBD5E1"/>
+<line x1="50" y1="336" x2="40" y2="336" stroke="#CBD5E1"/>
+<line x1="50" y1="366" x2="40" y2="366" stroke="#CBD5E1"/>
+<line x1="50" y1="396" x2="40" y2="396" stroke="#CBD5E1"/>
+<rect x="60" y="126" width="300" height="200" fill="#fff"/>
+<path d="M90 150 h140 v50 h60 v100 h-200 z" fill="none" stroke="#000" stroke-width="2"/>
+<text x="110" y="180" font-size="22" font-weight="bold" fill="#e63946">A</text>
+<text x="210" y="345" font-size="12" fill="#94A3B8" text-anchor="middle">30 cm × 20 cm</text>
+<text x="730" y="34" font-size="16" font-weight="bold" fill="#222" text-anchor="middle">↻ bir kez basınca (sağa 90°)</text>
+<rect x="530" y="48" width="400" height="360" rx="6" fill="#121826" stroke="#334155"/>
+<rect x="530" y="48" width="400" height="48" rx="6" fill="#182030"/>
+<rect x="660" y="56" width="132" height="32" rx="8" fill="#1F2937" stroke="#334155"/>
+<text x="682" y="79" font-size="20" fill="#E5E7EB" text-anchor="middle">↺</text>
+<text x="726" y="79" font-size="20" fill="#E5E7EB" text-anchor="middle">⟲</text>
+<rect x="752" y="58" width="36" height="28" rx="6" fill="#3B82F6"/>
+<text x="770" y="79" font-size="20" fill="#E5E7EB" text-anchor="middle">↻</text>
+<rect x="530" y="96" width="400" height="20" fill="#182030"/><rect x="530" y="96" width="20" height="312" rx="0" fill="#182030"/>
+<line x1="560" y1="116" x2="560" y2="106" stroke="#CBD5E1"/>
+<line x1="590" y1="116" x2="590" y2="106" stroke="#CBD5E1"/>
+<line x1="620" y1="116" x2="620" y2="106" stroke="#CBD5E1"/>
+<line x1="650" y1="116" x2="650" y2="106" stroke="#CBD5E1"/>
+<line x1="680" y1="116" x2="680" y2="106" stroke="#CBD5E1"/>
+<line x1="710" y1="116" x2="710" y2="106" stroke="#CBD5E1"/>
+<line x1="740" y1="116" x2="740" y2="106" stroke="#CBD5E1"/>
+<line x1="770" y1="116" x2="770" y2="106" stroke="#CBD5E1"/>
+<line x1="800" y1="116" x2="800" y2="106" stroke="#CBD5E1"/>
+<line x1="830" y1="116" x2="830" y2="106" stroke="#CBD5E1"/>
+<line x1="860" y1="116" x2="860" y2="106" stroke="#CBD5E1"/>
+<line x1="890" y1="116" x2="890" y2="106" stroke="#CBD5E1"/>
+<line x1="920" y1="116" x2="920" y2="106" stroke="#CBD5E1"/>
+<line x1="550" y1="126" x2="540" y2="126" stroke="#CBD5E1"/>
+<line x1="550" y1="156" x2="540" y2="156" stroke="#CBD5E1"/>
+<line x1="550" y1="186" x2="540" y2="186" stroke="#CBD5E1"/>
+<line x1="550" y1="216" x2="540" y2="216" stroke="#CBD5E1"/>
+<line x1="550" y1="246" x2="540" y2="246" stroke="#CBD5E1"/>
+<line x1="550" y1="276" x2="540" y2="276" stroke="#CBD5E1"/>
+<line x1="550" y1="306" x2="540" y2="306" stroke="#CBD5E1"/>
+<line x1="550" y1="336" x2="540" y2="336" stroke="#CBD5E1"/>
+<line x1="550" y1="366" x2="540" y2="366" stroke="#CBD5E1"/>
+<line x1="550" y1="396" x2="540" y2="396" stroke="#CBD5E1"/>
+<rect x="560" y="126" width="200" height="270" fill="#fff"/>
+<path d="M735 140 L735 280 L685 280 L685 340 L585 340 L585 140 Z" fill="none" stroke="#000" stroke-width="2"/>
+<text x="683" y="182" font-size="22" font-weight="bold" fill="#e63946" transform="rotate(90 694 171)">A</text>
+<text x="830" y="260" font-size="12" fill="#94A3B8" text-anchor="middle">20 cm × 30 cm</text>
+<path d="M445 228 h50" stroke="#d9480f" stroke-width="4" marker-end="url(#ok)"/>
+<text x="30" y="446" font-size="14" fill="#222">↺ sola 90° çevirir  ·  ⟲ ilk haline döndürür  ·  ↻ sağa 90° çevirir</text>
+<text x="30" y="472" font-size="13" fill="#555">Ölçü bozulmaz: çizim döndükten sonra da 1:1 kalır, cetveller yeni yöne göre baştan sayar.</text>
+<text x="30" y="496" font-size="13" fill="#555">Döndürünce aldığın ölçüler silinir (yanlış yerde kalmasınlar diye), bu geri alınamaz.</text>
+</svg>
