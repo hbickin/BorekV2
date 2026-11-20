@@ -6,6 +6,11 @@ Sürüm numarasının anlamı: ikinci sayı artınca **yeni bir özellik** gelmi
 
 ---
 
+## 2.8.12.122 (20 Kasım 2026)
+
+**Düzeltildi**
+- Program Visual Studio'nun yeni sürümünde Release olarak derlenmiyordu, artık sorunsuz derleniyor.
+
 ## 2.8.12.121 (20 Kasım 2026)
 
 **Değişti**
